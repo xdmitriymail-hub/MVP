@@ -5,12 +5,12 @@
     {
       "id": "esp",
       "name": "ESP",
-      "author": "be_primex",
+      "author": "be_prime",
       "description": "ESP-оверлей для BONELAB: боксы, скелеты, здоровье сущностей.",
       "version": "1.0.0",
       "category": "utility",
       "fileUrl": "https://raw.githubusercontent.com/xdmitriymail-hub/MVP/Mods/ESP.dll",
-      "iconUrl": "",
+      "iconUrl": "https://raw.githubusercontent.com/XBePrime/BONELAB/media/esp.png",
       "sha256": "30ba9ee27b1158542ca2ef646a2acd67d7950c30ce516c893e3df2d4d8f39cbd",
       "sizeBytes": 30208
     }
